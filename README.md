@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<img src="Cover.png" width="750px">
+<img src="cover.png" width="750px">
 </div>
   
 ## ***VLMs as GeoGuessr Masters***
@@ -137,13 +137,10 @@ For more details, please refer to our paper <a href="https://arxiv.org/abs/2502.
 
 If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
 ```
-@misc{huang2025vlmsgeoguessrmastersexceptional,
-      title={VLMs as GeoGuessr Masters: Exceptional Performance, Hidden Biases, and Privacy Risks}, 
-      author={Jingyuan Huang and Jen-tse Huang and Ziyi Liu and Xiaoyuan Liu and Wenxuan Wang and Jieyu Zhao},
-      year={2025},
-      eprint={2502.11163},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2502.11163}, 
+@article{huang2025vlms,
+  title={VLMs as GeoGuessr Masters: Exceptional Performance, Hidden Biases, and Privacy Risks},
+  author={Huang, Jingyuan and Huang, Jen-tse and Liu, Ziyi and Liu, Xiaoyuan and Wang, Wenxuan and Zhao, Jieyu},
+  journal={arXiv preprint arXiv:2502.11163},
+  year={2025}
 }
 ```
