@@ -102,7 +102,20 @@ python DealWithGPTEvaluateResult.py \
   --work "select a work to evaluate"
 ```
 
-✨Step 6: Check the Evaluate Result from excel file <{model}_{work}EvaluateResult.xlsx>:
+✨Step 6: Get Response Cities' Coordinates:
+```
+python GetAnswerLatlon.py \
+  --model <model_name> \
+  --work <excel_file> \
+  --api_key <googlemap_api_key>
+```
+✨Step 7: Calculate the Distance:
+```
+python CalculateDistance.py \
+  --model <model_name> \
+  --work <excel_file>
+```
+✨Step 8: Check the Evaluate Result from excel file <{model}_{work_name}EvaluateResult_with_Distance.xlsx>:
 
 
 ## 🔧 Argument Specification
