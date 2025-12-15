@@ -17,6 +17,7 @@
 ## UPDATES
 
 [Aug 20 2025]: Our paper is accepted to EMNLP Main Conference!
+
 [Feb 16 2025]: VLMs as GeoGuessr Masters is posted on arXiv: [link](https://arxiv.org/abs/2502.11163)
 
 
