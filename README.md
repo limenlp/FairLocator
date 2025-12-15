@@ -16,6 +16,7 @@
 
 ## UPDATES
 
+[Aug 20 2025]: Our paper is accepted to EMNLP Main Conference!
 [Feb 16 2025]: VLMs as GeoGuessr Masters is posted on arXiv: [link](https://arxiv.org/abs/2502.11163)
 
 
@@ -150,10 +151,11 @@ For more details, please refer to our paper <a href="https://arxiv.org/abs/2502.
 
 If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
 ```
-@article{huang2025vlms,
-  title={VLMs as GeoGuessr Masters: Exceptional Performance, Hidden Biases, and Privacy Risks},
+@inproceedings{huang2025ai,
+  title={Ai sees your location—but with a bias toward the wealthy world},
   author={Huang, Jingyuan and Huang, Jen-tse and Liu, Ziyi and Liu, Xiaoyuan and Wang, Wenxuan and Zhao, Jieyu},
-  journal={arXiv preprint arXiv:2502.11163},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={18030--18050},
   year={2025}
 }
 ```
